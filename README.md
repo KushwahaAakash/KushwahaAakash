@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aakash Kushwaha
 
-### 🚀 Full-Stack Developer | Problem Solver | Software Engineering Enthusiast
+### 🚀 Full-Stack Developer | Problem Solver | Software Engineering
 
 <p align="center">
   <a href="https://github.com/KushwahaAakash">
