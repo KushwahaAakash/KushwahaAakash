@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aakash%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Aakash_25/">
-  <img src="https://leetcard.jacoblin.cool/Aakash_25?theme=dark&font=Baloo&ext=heatmap" alt="Aakash's LeetCode Stats"/>
+  <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:kushwahaaakash2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
