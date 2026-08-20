@@ -148,28 +148,9 @@ I regularly practice:
 
 ---
 
-## 📊 GitHub Statistics
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=KushwahaAakash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Aakash's GitHub Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushwahaAakash&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages"/> </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=KushwahaAakash&show_icons=true&theme=transparent&hide_border=true"
-    alt="Aakash's GitHub Stats"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushwahaAakash&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=KushwahaAakash&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
----
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=KushwahaAakash&hide_border=true&theme=transparent" alt="GitHub Streak"/> </p>
 
 ## 📈 Contribution Graph
 
