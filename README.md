@@ -176,8 +176,6 @@ I regularly practice:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushwahaAakash&theme=react-dark&hide_border=true&custom_title=Aakash's%20Contribution%20Graph" alt="Aakash's Contribution Graph"/>
 </p>
 
-> 📝 **Note:** the stats card above now points to [`github-stats-extended`](https://github.com/stats-organization/github-stats-extended), an actively-maintained, fully compatible successor to `github-readme-stats` — the original public `github-readme-stats.vercel.app` endpoint has been intermittently down since its Vercel sponsorship ended, which is why those cards were showing as broken images. If a card ever goes down again in the future, the most permanent fix is to deploy your own free instance on Vercel (one-click "Deploy" button in either repo's README) so you're never dependent on a shared public endpoint.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 </p>
