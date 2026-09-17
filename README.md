@@ -173,7 +173,7 @@ I regularly practice:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushwahaAakash&theme=react-dark&hide_border=true&custom_title=Aakash's%20Contribution%20Graph" alt="Aakash's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushwahaAakash&theme=react-dark&hide_border=true&area=true&custom_title=Aakash%20Kushwaha%20-%20Contribution%20Graph" alt="Aakash's Contribution Graph" width="95%"/>
 </p>
 
 <p align="center">
