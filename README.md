@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/KushwahaAakash">
-    <img src="https://komarev.com/ghpvc/?username=KushwahaAakash&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+   <img src="https://hits.sh/github.com/KushwahaAakash.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
   </a>
   <a href="https://github.com/KushwahaAakash?tab=followers">
     <img src="https://img.shields.io/github/followers/KushwahaAakash?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
