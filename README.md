@@ -40,7 +40,7 @@
 I'm a software developer passionate about building **scalable web applications, solving challenging algorithmic problems, and continuously improving my engineering skills**.
 
 - 💻 Focused on **Full-Stack Development & Software Engineering**
-- 🧠 **450+ LeetCode problems solved**
+- 🧠 **500+ LeetCode problems solved**
 - 📚 Strong interest in **Data Structures & Algorithms**
 - ☁️ Exploring **Cloud & Azure technologies**
 - 🔧 Building practical projects using modern web technologies
